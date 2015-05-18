@@ -59,6 +59,6 @@ deploy:
   provider: releases
   api_key:
     secure: q8aTFLKhQA0PFa5iRhe6kERbLs+xdFs0DBC1gOiN5kAuePREbwGW/7AZtD0EUoShH3KdG7uV4np2qVVz/S+Ze/aBhlVXyfTz7BZrEKBwpY7fFbf5+cWg2R9aWLHg14oNY19zuBnFOYY+GiDzHuczBgJk6DHiKDfoFQPjnOD19NGKqfvtvJCSsoK+IPl3wJ7GIdQ0YSWqBjc0q9S1sjprv4uNplAPAViM6euMBbEWsI51RVa8BxxMUICKLUUcPadbOAJ8k9l8DtOPPZ8+BsPxM6dhc6Fj2WNbz+SbsZYQ089X8BjznC9ppemAOeIcOgOFKoxiVpQ+fMbacOuz4kcnY8EtbfsmZlYPdRVqdqkYg25J4/1rkWo60st6fFC3ttf1+9c7bv+LKGTGTrF0smpcMcaWDUN9pPxWCvgyFukSkb8ebtqcME2UGWSByNlHs+mrLyWCu9dO1Wh779UA/wZXEpfvC/v2Y1cYi4N2THaHgOSyfrvFCyVN/XjCbdv2e5WLDGJdXAUuLVeYihOM8SaXJ9ZE3RII+6PpGZ6Y32z9EiwKEZWKXZABx2fCFtH2HNEOBiHRBtGfbJAFYySSBT+VlfxGBPvFjsdJrMfKU0kIeogOPemkCcbLiq9HWmDUvbzRhkMA5kgmEJZMp7q+b/6bAb0c9FWYPI0i/WJCqu5W2eA=
-  file: mobilesdk-*-osx.zip
+  file: mobilesdk-$BASENAME-osx.zip
   on:
     repo: alterego2/titanium_mobile
